@@ -1,0 +1,7 @@
+numpy>=1.24
+opencv-python>=4.8        # needs cv2.aruco.ArucoDetector (4.7+); use opencv-python-headless on servers without a display
+PyYAML>=6.0
+pyserial>=3.5
+openai>=1.40              # DeepSeek is called through the OpenAI-compatible API
+ultralytics>=8.1          # YOLOv8; pulls in torch. Not needed for --no-camera
+pytest>=7.0

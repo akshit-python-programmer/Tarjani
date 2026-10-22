@@ -1,0 +1,7 @@
+{
+  "red cup":       {"x": 220.0, "y": 140.0, "width_mm": 70, "height_mm": 90,  "class": "cup", "colour": "red"},
+  "blue cup":      {"x": 380.0, "y": 160.0, "width_mm": 70, "height_mm": 90,  "class": "cup", "colour": "blue"},
+  "yellow ball":   {"x": 300.0, "y": 110.0, "width_mm": 65, "height_mm": 65,  "class": "sports ball", "colour": "yellow"},
+  "green block_1": {"x": 260.0, "y": 210.0, "width_mm": 40, "height_mm": 40,  "class": "block", "colour": "green"},
+  "green block_2": {"x": 350.0, "y": 230.0, "width_mm": 40, "height_mm": 40,  "class": "block", "colour": "green"}
+}
